@@ -1,0 +1,101 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            fe:67:e4:f1:5a:24:e3:c6:0d:54:7c:a0:20:c2:76:70
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=PL, O=Unizeto Technologies S.A., OU=Certum Certification Authority, CN=Certum Trusted Network CA
+        Validity
+            Not Before: Mar  8 13:10:43 2016 GMT
+            Not After : May 30 13:10:43 2027 GMT
+        Subject: C=PL, O=Unizeto Technologies S.A., OU=Certum Certification Authority, CN=Certum EV TSA SHA2
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (2048 bit)
+                Modulus (2048 bit):
+                    00:bf:57:8b:bc:91:33:5a:2e:57:31:7f:25:57:f4:
+                    5b:53:58:6a:25:aa:e8:81:20:cc:0d:1d:47:38:70:
+                    1a:a3:16:37:9d:b7:44:74:b5:1a:81:24:fa:f5:18:
+                    4a:38:4b:0b:a0:ba:c5:bf:34:6f:ea:8c:f5:9d:42:
+                    1a:d0:31:a8:56:dd:a8:25:0e:b4:3c:25:c5:ac:c6:
+                    cb:5c:e3:80:92:ea:a3:af:2d:00:40:40:7c:d2:41:
+                    28:1f:2b:08:e8:51:d0:5d:89:70:22:6c:69:76:d0:
+                    76:12:3c:2e:4b:07:29:26:e9:f8:01:e1:d0:e5:28:
+                    f6:24:c3:15:fa:a6:90:84:74:85:5c:83:2c:0e:c4:
+                    da:78:49:94:6a:1d:24:86:97:e9:22:c0:c6:0c:35:
+                    e0:74:32:aa:3d:bb:01:d8:7e:cc:13:4c:20:c7:95:
+                    2d:49:f6:f1:2d:17:bc:c6:29:f7:f8:55:76:9c:7d:
+                    15:dc:de:e1:42:95:93:60:99:f7:43:c5:94:42:21:
+                    bd:98:ac:1c:b3:66:dc:fd:78:60:44:3f:3d:c4:95:
+                    69:67:ee:61:cb:da:d0:b9:e6:76:f7:a1:3f:04:f4:
+                    d3:e7:71:af:21:02:5e:11:da:53:a4:a6:b5:91:78:
+                    d9:90:11:5b:b4:a1:ee:a7:6e:0a:d9:73:a4:38:05:
+                    52:23
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                F3:35:CA:8E:46:08:0D:39:8D:DF:41:C7:33:6E:64:E4:16:3B:98:2B
+            X509v3 Authority Key Identifier: 
+                keyid:08:76:CD:CB:07:FF:24:F6:C5:CD:ED:BB:90:BC:E2:84:37:46:75:F7
+
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Extended Key Usage: critical
+                Time Stamping
+            X509v3 CRL Distribution Points: 
+                URI:http://crl.certum.pl/ctnca.crl
+
+            Authority Information Access: 
+                OCSP - URI:http://subca.ocsp-certum.com
+                CA Issuers - URI:http://repository.certum.pl/ctnca.cer
+
+            X509v3 Certificate Policies: 
+                Policy: 1.2.616.1.113527.2.5.1.11
+                  CPS: http://www.certum.pl/CPS
+
+    Signature Algorithm: sha256WithRSAEncryption
+        ca:74:e4:38:bd:32:c9:1a:3c:fa:2b:58:c5:57:2d:35:53:0b:
+        90:de:2d:05:b2:f1:33:32:40:1b:96:ff:22:45:87:39:ae:0c:
+        f0:19:ce:c1:d0:32:44:1a:33:0c:80:eb:3d:33:2b:7c:79:34:
+        4e:c6:81:44:34:58:56:ba:39:0d:f0:e4:b3:03:ac:37:75:c0:
+        7a:eb:b7:40:f6:9a:fc:7e:80:6d:a9:b4:55:89:3d:98:48:ca:
+        56:f4:55:a4:2e:e9:e1:d3:7e:b5:38:91:95:c4:cf:bb:a6:1e:
+        75:6b:56:50:9b:6e:a7:eb:d1:9c:e1:71:20:d5:d5:a6:58:ab:
+        e1:e5:29:5d:81:f1:04:b5:e4:1b:64:42:a1:38:71:3d:7b:73:
+        64:c6:69:d4:22:30:96:b0:24:c3:02:5b:11:a8:3c:34:62:7b:
+        67:67:e1:46:86:57:7c:e8:8a:9f:90:bb:38:5b:d9:b5:89:ea:
+        03:28:db:8d:b7:5b:07:6d:32:bb:87:7f:dc:26:ce:2e:5e:e8:
+        d6:ab:db:e6:a6:d0:e2:19:02:12:f9:a0:db:3e:9d:52:c4:4c:
+        bd:57:85:ed:78:ed:c1:96:44:cd:46:b0:ce:65:d5:57:72:3a:
+        24:c6:10:e1:b0:73:c4:8f:5a:83:ac:f6:c6:72:94:f9:72:77:
+        ff:01:d5:21
+-----BEGIN CERTIFICATE-----
+MIIE3DCCA8SgAwIBAgIRAP5n5PFaJOPGDVR8oCDCdnAwDQYJKoZIhvcNAQELBQAw
+fjELMAkGA1UEBhMCUEwxIjAgBgNVBAoTGVVuaXpldG8gVGVjaG5vbG9naWVzIFMu
+QS4xJzAlBgNVBAsTHkNlcnR1bSBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eTEiMCAG
+A1UEAxMZQ2VydHVtIFRydXN0ZWQgTmV0d29yayBDQTAeFw0xNjAzMDgxMzEwNDNa
+Fw0yNzA1MzAxMzEwNDNaMHcxCzAJBgNVBAYTAlBMMSIwIAYDVQQKDBlVbml6ZXRv
+IFRlY2hub2xvZ2llcyBTLkEuMScwJQYDVQQLDB5DZXJ0dW0gQ2VydGlmaWNhdGlv
+biBBdXRob3JpdHkxGzAZBgNVBAMMEkNlcnR1bSBFViBUU0EgU0hBMjCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAL9Xi7yRM1ouVzF/JVf0W1NYaiWq6IEg
+zA0dRzhwGqMWN523RHS1GoEk+vUYSjhLC6C6xb80b+qM9Z1CGtAxqFbdqCUOtDwl
+xazGy1zjgJLqo68tAEBAfNJBKB8rCOhR0F2JcCJsaXbQdhI8LksHKSbp+AHh0OUo
+9iTDFfqmkIR0hVyDLA7E2nhJlGodJIaX6SLAxgw14HQyqj27Adh+zBNMIMeVLUn2
+8S0XvMYp9/hVdpx9Fdze4UKVk2CZ90PFlEIhvZisHLNm3P14YEQ/PcSVaWfuYcva
+0LnmdvehPwT00+dxryECXhHaU6SmtZF42ZARW7Sh7qduCtlzpDgFUiMCAwEAAaOC
+AVowggFWMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFPM1yo5GCA05jd9BxzNuZOQW
+O5grMB8GA1UdIwQYMBaAFAh2zcsH/yT2xc3tu5C84oQ3RnX3MA4GA1UdDwEB/wQE
+AwIHgDAWBgNVHSUBAf8EDDAKBggrBgEFBQcDCDAvBgNVHR8EKDAmMCSgIqAghh5o
+dHRwOi8vY3JsLmNlcnR1bS5wbC9jdG5jYS5jcmwwawYIKwYBBQUHAQEEXzBdMCgG
+CCsGAQUFBzABhhxodHRwOi8vc3ViY2Eub2NzcC1jZXJ0dW0uY29tMDEGCCsGAQUF
+BzAChiVodHRwOi8vcmVwb3NpdG9yeS5jZXJ0dW0ucGwvY3RuY2EuY2VyMEAGA1Ud
+IAQ5MDcwNQYLKoRoAYb2dwIFAQswJjAkBggrBgEFBQcCARYYaHR0cDovL3d3dy5j
+ZXJ0dW0ucGwvQ1BTMA0GCSqGSIb3DQEBCwUAA4IBAQDKdOQ4vTLJGjz6K1jFVy01
+UwuQ3i0FsvEzMkAblv8iRYc5rgzwGc7B0DJEGjMMgOs9Myt8eTROxoFENFhWujkN
+8OSzA6w3dcB667dA9pr8foBtqbRViT2YSMpW9FWkLunh0361OJGVxM+7ph51a1ZQ
+m26n69Gc4XEg1dWmWKvh5SldgfEEteQbZEKhOHE9e3NkxmnUIjCWsCTDAlsRqDw0
+YntnZ+FGhld86IqfkLs4W9m1ieoDKNuNt1sHbTK7h3/cJs4uXujWq9vmptDiGQIS
++aDbPp1SxEy9V4XteO3BlkTNRrDOZdVXcjokxhDhsHPEj1qDrPbGcpT5cnf/AdUh
+-----END CERTIFICATE-----
